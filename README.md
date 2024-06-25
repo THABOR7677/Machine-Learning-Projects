@@ -4,3 +4,6 @@ here is the link to source of the learning material:https://www.youtube.com/@Sid
 
 #Project1: Rock vs Mines Sonar Prediction project
 I built a ML model that helps predict whether a Sonar used in a submarine detects a Rock or a Mine
+
+#Project2: Diabetics Prediction project
+I built a ML model that helps predict whether patience are Diabetic or Non-Diabetic
